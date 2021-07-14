@@ -35,8 +35,8 @@
             // myCircularQueue1
             // 
             this.myCircularQueue1.ekle = true;
-            this.myCircularQueue1.EklenecekVeri = "test";
-            this.myCircularQueue1.veriler = null;
+            this.myCircularQueue1.EklenecekVeri = "asdasd";
+            this.myCircularQueue1.veriler = "";
             // 
             // Form1
             // 

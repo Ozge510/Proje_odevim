@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace proje1
 {
+    /// <summary>
+    /// Verileri tutuldupu kutular 
+    /// </summary>
     public class veri
     {
         string icindeki_veri;

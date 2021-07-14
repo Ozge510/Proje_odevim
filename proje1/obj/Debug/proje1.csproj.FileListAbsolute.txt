@@ -1,9 +1,0 @@
-C:\Users\Özge\source\repos\proje1\proje1\bin\Debug\proje1.exe.config
-C:\Users\Özge\source\repos\proje1\proje1\bin\Debug\proje1.exe
-C:\Users\Özge\source\repos\proje1\proje1\bin\Debug\proje1.pdb
-C:\Users\Özge\source\repos\proje1\proje1\obj\Debug\proje1.csprojAssemblyReference.cache
-C:\Users\Özge\source\repos\proje1\proje1\obj\Debug\proje1.Form1.resources
-C:\Users\Özge\source\repos\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
-C:\Users\Özge\source\repos\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
-C:\Users\Özge\source\repos\proje1\proje1\obj\Debug\proje1.exe
-C:\Users\Özge\source\repos\proje1\proje1\obj\Debug\proje1.pdb

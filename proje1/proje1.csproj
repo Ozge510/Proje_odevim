@@ -58,7 +58,9 @@
     <Compile Include="MYCircularQueue.Designer.cs">
       <DependentUpon>MYCircularQueue.cs</DependentUpon>
     </Compile>
-    <Compile Include="myqueu.cs" />
+    <Compile Include="..\..\..\..\Desktop\resim görsel\yeni\myqueu.cs">
+      <Link>myqueu.cs</Link>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="veri.cs" />
