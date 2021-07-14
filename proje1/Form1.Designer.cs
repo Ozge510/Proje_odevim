@@ -31,7 +31,7 @@
             this.components = new System.ComponentModel.Container();
             this.myCircularQueue1 = new proje1.MYCircularQueue(this.components);
             this.SuspendLayout();
-            // 
+            // //
             // myCircularQueue1
             // 
             this.myCircularQueue1.ekle = true;
